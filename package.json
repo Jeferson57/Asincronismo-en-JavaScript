@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "jeferson mejicanos",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
